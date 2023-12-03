@@ -1,4 +1,4 @@
-# Weather Cast App
+# Weather Foreast App
 
 Welcome to the Weather Cast app! This project is a simple weather forecasting application implemented with React.js and styled using HTML and CSS.
 
